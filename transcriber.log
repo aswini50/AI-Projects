@@ -75,3 +75,113 @@ Subtitles are disabled for this video
 If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
 2025-10-24 15:57:37,252 - INFO - Batch processing complete. Success: 4, Failures: 1
 2025-10-24 15:57:37,252 - INFO - Headless run complete. Success: 4, Failures: 1
+2025-10-26 16:43:30,776 - INFO - YouTube Transcriber initialized
+2025-10-26 16:43:30,776 - INFO - Running in headless mode
+2025-10-26 16:43:30,778 - INFO - Found 1 URLs to process
+2025-10-26 16:43:30,778 - INFO - Starting batch processing of 1 URLs
+2025-10-26 16:43:33,564 - WARNING - Could not get title for r9H7k16RRmM: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-10-26 16:43:33,567 - INFO - Fetching transcript for video ID: r9H7k16RRmM
+2025-10-26 16:43:33,568 - ERROR - Failed to fetch transcript for r9H7k16RRmM: 'YouTubeTranscriptApi' object has no attribute 'get_transcript'
+2025-10-26 16:43:33,570 - ERROR - [FAILED] Failed to fetch transcript: 'YouTubeTranscriptApi' object has no attribute 'get_transcript'
+2025-10-26 16:43:33,570 - INFO - Batch processing complete. Success: 0, Failures: 1
+2025-10-26 16:43:33,570 - INFO - Headless run complete. Success: 0, Failures: 1
+2025-10-26 16:44:08,664 - INFO - YouTube Transcriber initialized
+2025-10-26 16:44:08,665 - INFO - Running in headless mode
+2025-10-26 16:44:08,666 - INFO - Found 1 URLs to process
+2025-10-26 16:44:08,666 - INFO - Starting batch processing of 1 URLs
+2025-10-26 16:44:11,531 - WARNING - Could not get title for r9H7k16RRmM: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-10-26 16:44:11,535 - INFO - Fetching transcript for video ID: r9H7k16RRmM
+2025-10-26 16:44:14,449 - ERROR - Failed to fetch transcript for r9H7k16RRmM: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-10-26 16:44:14,454 - ERROR - [FAILED] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-10-26 16:44:14,455 - INFO - Batch processing complete. Success: 0, Failures: 1
+2025-10-26 16:44:14,456 - INFO - Headless run complete. Success: 0, Failures: 1
+2025-10-26 16:44:35,498 - INFO - YouTube Transcriber initialized
+2025-10-26 16:44:35,499 - INFO - Running in headless mode
+2025-10-26 16:44:35,500 - INFO - Found 2 URLs to process
+2025-10-26 16:44:35,501 - INFO - Starting batch processing of 2 URLs
+2025-10-26 16:44:38,287 - WARNING - Could not get title for r9H7k16RRmM: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-10-26 16:44:38,293 - INFO - Fetching transcript for video ID: r9H7k16RRmM
+2025-10-26 16:44:41,284 - ERROR - Failed to fetch transcript for r9H7k16RRmM: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-10-26 16:44:41,291 - ERROR - [FAILED] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-10-26 16:44:46,100 - INFO - Fetching transcript for video ID: Msvjm0oC2dk
+2025-10-26 16:44:48,914 - ERROR - Failed to fetch transcript for Msvjm0oC2dk: bad operand type for unary +: 'str'
+2025-10-26 16:44:48,920 - ERROR - [FAILED] Failed to fetch transcript: bad operand type for unary +: 'str'
+2025-10-26 16:44:48,920 - INFO - Batch processing complete. Success: 0, Failures: 2
+2025-10-26 16:44:48,921 - INFO - Headless run complete. Success: 0, Failures: 2
+2025-10-26 16:48:27,315 - INFO - YouTube Transcriber initialized
+2025-10-26 16:48:39,711 - INFO - Starting batch processing of 1 URLs
+2025-10-26 16:48:42,235 - INFO - Fetching transcript for video ID: Msvjm0oC2dk
+2025-10-26 16:48:44,558 - ERROR - Failed to fetch transcript for Msvjm0oC2dk: bad operand type for unary +: 'str'
+2025-10-26 16:48:44,563 - ERROR - [FAILED] Failed to fetch transcript: bad operand type for unary +: 'str'
+2025-10-26 16:48:44,563 - INFO - Batch processing complete. Success: 0, Failures: 1
+2025-10-26 16:49:27,232 - INFO - YouTube Transcriber initialized
+2025-10-26 16:49:27,233 - INFO - Running in headless mode
+2025-10-26 16:49:27,235 - INFO - Found 2 URLs to process
+2025-10-26 16:49:27,235 - INFO - Starting batch processing of 2 URLs
+2025-10-26 16:49:30,139 - WARNING - Could not get title for r9H7k16RRmM: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-10-26 16:49:30,147 - INFO - Fetching transcript for video ID: r9H7k16RRmM
+2025-10-26 16:49:33,806 - ERROR - Failed to fetch transcript for r9H7k16RRmM: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-10-26 16:49:33,814 - ERROR - [FAILED] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-10-26 16:49:39,031 - INFO - Fetching transcript for video ID: Msvjm0oC2dk
+2025-10-26 16:49:42,217 - INFO - Successfully saved transcript: Video_Msvjm0oC2dk_Msvjm0oC2dk.txt
+2025-10-26 16:49:42,220 - INFO - [SUCCESS] Success: Video_Msvjm0oC2dk
+2025-10-26 16:49:42,220 - INFO - Batch processing complete. Success: 1, Failures: 1
+2025-10-26 16:49:42,221 - INFO - Headless run complete. Success: 1, Failures: 1
+2025-10-26 16:51:41,385 - INFO - YouTube Transcriber initialized
+2025-10-26 16:51:41,386 - INFO - Fetching transcript for video ID: dQw4w9WgXcQ
+2025-10-26 16:51:41,386 - ERROR - Failed to fetch transcript for dQw4w9WgXcQ: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2025-10-26 16:52:25,348 - INFO - YouTube Transcriber initialized
+2025-10-26 16:52:25,349 - INFO - Fetching transcript for video ID: dQw4w9WgXcQ
+2025-10-26 16:52:25,349 - ERROR - Failed to fetch transcript for dQw4w9WgXcQ: YouTubeTranscriptApi.fetch() missing 1 required positional argument: 'video_id'
+2025-10-26 16:53:42,866 - INFO - YouTube Transcriber initialized
+2025-10-26 16:53:42,866 - INFO - Fetching transcript for video ID: dQw4w9WgXcQ

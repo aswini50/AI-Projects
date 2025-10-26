@@ -424,7 +424,7 @@ class YouTubeTranscriberGUI:
                 self.process_btn.config(text="Process URLs", state='normal')
                 self.progress_var.set("Complete")
         
-        threading.Thread(target=process_thread, daemon=True).start()
+        threading.Thread(target=process_thread, daemon=False).start()
 
     def run(self):
         """Run the GUI"""
