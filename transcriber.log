@@ -1,0 +1,77 @@
+2025-10-24 11:56:44,489 - INFO - YouTube Transcriber initialized
+2025-10-24 11:56:44,490 - INFO - Running in headless mode
+2025-10-24 11:56:44,491 - INFO - Found 1 URLs to process
+2025-10-24 11:56:44,491 - INFO - Starting batch processing of 1 URLs
+2025-10-24 11:56:44,492 - WARNING - Could not get title for dQw4w9WgXcQ: type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+2025-10-24 11:56:44,492 - INFO - Fetching transcript for video ID: dQw4w9WgXcQ
+2025-10-24 11:56:44,492 - ERROR - Failed to fetch transcript for dQw4w9WgXcQ: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2025-10-24 11:56:44,502 - INFO - Batch processing complete. Success: 0, Failures: 1
+2025-10-24 11:56:44,502 - INFO - Headless run complete. Success: 0, Failures: 1
+2025-10-24 12:47:15,415 - INFO - YouTube Transcriber initialized
+2025-10-24 12:47:15,415 - INFO - Running in headless mode
+2025-10-24 12:47:15,416 - INFO - Found 1 URLs to process
+2025-10-24 12:47:15,417 - INFO - Starting batch processing of 1 URLs
+2025-10-24 12:47:15,417 - WARNING - Could not get title for dQw4w9WgXcQ: type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+2025-10-24 12:47:15,417 - INFO - Fetching transcript for video ID: dQw4w9WgXcQ
+2025-10-24 12:47:15,418 - ERROR - Failed to fetch transcript for dQw4w9WgXcQ: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2025-10-24 12:47:15,425 - INFO - Batch processing complete. Success: 0, Failures: 1
+2025-10-24 12:47:15,426 - INFO - Headless run complete. Success: 0, Failures: 1
+2025-10-24 12:59:46,925 - INFO - YouTube Transcriber initialized
+2025-10-24 12:59:46,926 - INFO - Running in headless mode
+2025-10-24 12:59:46,926 - INFO - Found 2 URLs to process
+2025-10-24 12:59:46,927 - INFO - Starting batch processing of 2 URLs
+2025-10-24 12:59:46,927 - WARNING - Could not get title for dQw4w9WgXcQ: type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+2025-10-24 12:59:46,927 - INFO - Fetching transcript for video ID: dQw4w9WgXcQ
+2025-10-24 12:59:46,928 - ERROR - Failed to fetch transcript for dQw4w9WgXcQ: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2025-10-24 12:59:48,937 - WARNING - Could not get title for -VYsBILxEeE: type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+2025-10-24 12:59:48,937 - INFO - Fetching transcript for video ID: -VYsBILxEeE
+2025-10-24 12:59:48,937 - ERROR - Failed to fetch transcript for -VYsBILxEeE: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript'
+2025-10-24 12:59:48,942 - INFO - Batch processing complete. Success: 0, Failures: 2
+2025-10-24 12:59:48,942 - INFO - Headless run complete. Success: 0, Failures: 2
+2025-10-24 13:02:46,988 - INFO - YouTube Transcriber initialized
+2025-10-24 13:02:46,989 - INFO - Running in headless mode
+2025-10-24 13:02:46,992 - INFO - Found 2 URLs to process
+2025-10-24 13:02:46,992 - INFO - Starting batch processing of 2 URLs
+2025-10-24 13:02:49,992 - INFO - Fetching transcript for video ID: dQw4w9WgXcQ
+2025-10-24 13:02:52,315 - INFO - Successfully saved transcript: Video_dQw4w9WgXcQ_dQw4w9WgXcQ.txt
+2025-10-24 13:02:56,752 - INFO - Fetching transcript for video ID: -VYsBILxEeE
+2025-10-24 13:02:59,208 - INFO - Successfully saved transcript: Video_-VYsBILxEeE_-VYsBILxEeE.txt
+2025-10-24 13:02:59,213 - INFO - Batch processing complete. Success: 2, Failures: 0
+2025-10-24 13:02:59,214 - INFO - Headless run complete. Success: 2, Failures: 0
+2025-10-24 15:57:03,926 - INFO - YouTube Transcriber initialized
+2025-10-24 15:57:03,927 - INFO - Running in headless mode
+2025-10-24 15:57:03,928 - INFO - Found 5 URLs to process
+2025-10-24 15:57:03,928 - INFO - Starting batch processing of 5 URLs
+2025-10-24 15:57:06,316 - INFO - Fetching transcript for video ID: 8cYQXQIl85k
+2025-10-24 15:57:08,742 - INFO - Successfully saved transcript: Video_8cYQXQIl85k_8cYQXQIl85k.txt
+2025-10-24 15:57:08,744 - INFO - [SUCCESS] Success: Video_8cYQXQIl85k
+2025-10-24 15:57:14,356 - INFO - Fetching transcript for video ID: j12usEHlU_Q
+2025-10-24 15:57:16,619 - INFO - Successfully saved transcript: Video_j12usEHlU_Q_j12usEHlU_Q.txt
+2025-10-24 15:57:16,622 - INFO - [SUCCESS] Success: Video_j12usEHlU_Q
+2025-10-24 15:57:21,028 - INFO - Fetching transcript for video ID: VXUe2Jvp7Qo
+2025-10-24 15:57:23,454 - INFO - Successfully saved transcript: Video_VXUe2Jvp7Qo_VXUe2Jvp7Qo.txt
+2025-10-24 15:57:23,456 - INFO - [SUCCESS] Success: Video_VXUe2Jvp7Qo
+2025-10-24 15:57:27,945 - INFO - Fetching transcript for video ID: TYhB5OAypGU
+2025-10-24 15:57:30,375 - INFO - Successfully saved transcript: Video_TYhB5OAypGU_TYhB5OAypGU.txt
+2025-10-24 15:57:30,377 - INFO - [SUCCESS] Success: Video_TYhB5OAypGU
+2025-10-24 15:57:34,719 - WARNING - Could not get title for r9H7k16RRmM: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-10-24 15:57:34,722 - INFO - Fetching transcript for video ID: r9H7k16RRmM
+2025-10-24 15:57:37,247 - ERROR - Failed to fetch transcript for r9H7k16RRmM: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-10-24 15:57:37,251 - ERROR - [FAILED] Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!
+2025-10-24 15:57:37,252 - INFO - Batch processing complete. Success: 4, Failures: 1
+2025-10-24 15:57:37,252 - INFO - Headless run complete. Success: 4, Failures: 1
