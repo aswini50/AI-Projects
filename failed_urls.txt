@@ -1,0 +1,31 @@
+https://www.youtube.com/watch?v=dQw4w9WgXcQ | 1 | Failed to fetch transcript: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript' | 2025-10-24 11:56:44
+https://www.youtube.com/watch?v=dQw4w9WgXcQ | 1 | Failed to fetch transcript: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript' | 2025-10-24 12:47:15
+https://www.youtube.com/watch?v=dQw4w9WgXcQ | 1 | Failed to fetch transcript: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript' | 2025-10-24 12:59:46
+https://www.youtube.com/watch?v=-VYsBILxEeE | 1 | Failed to fetch transcript: type object 'YouTubeTranscriptApi' has no attribute 'get_transcript' | 2025-10-24 12:59:48
+https://www.youtube.com/watch?v=r9H7k16RRmM | 1 | Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem! | 2025-10-24 15:57:37
+https://www.youtube.com/watch?v=r9H7k16RRmM | 1 | Failed to fetch transcript: 'YouTubeTranscriptApi' object has no attribute 'get_transcript' | 2025-10-26 16:43:33
+https://www.youtube.com/watch?v=r9H7k16RRmM | 1 | Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem! | 2025-10-26 16:44:14
+https://www.youtube.com/watch?v=r9H7k16RRmM | 1 | Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem! | 2025-10-26 16:44:41
+https://www.youtube.com/watch?v=Msvjm0oC2dk | 1 | Failed to fetch transcript: bad operand type for unary +: 'str' | 2025-10-26 16:44:48
+https://www.youtube.com/watch?v=Msvjm0oC2dk | 1 | Failed to fetch transcript: bad operand type for unary +: 'str' | 2025-10-26 16:48:44
+https://www.youtube.com/watch?v=r9H7k16RRmM | 1 | Failed to fetch transcript: 
+Could not retrieve a transcript for the video https://www.youtube.com/watch?v=r9H7k16RRmM! This is most likely caused by:
+
+Subtitles are disabled for this video
+
+If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem! | 2025-10-26 16:49:33
